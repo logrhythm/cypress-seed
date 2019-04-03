@@ -12,4 +12,4 @@ This project is a starting point to create a typescript cypress testing project.
 6. Start testing!
 
 
-NOTE: The `docs` folder can be deleted. It is only present to enable the initial demo test to run
+NOTE: The `docs` folder can be deleted. It is only present to enable the initial demo test to run.
