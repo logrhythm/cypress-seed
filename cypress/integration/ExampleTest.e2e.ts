@@ -7,7 +7,7 @@ describe('My test', () => {
 
     // assert that the tagline contains the correct text
     cy
-      .get('.tagline')
-      .contains('The web has evolved. Finally, testing has too.')
+      .get('.my-text')
+      .contains('HELLO THERE, CYPRESS')
   })
 })
