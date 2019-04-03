@@ -2,7 +2,7 @@
 
 This project is a starting point to create a typescript cypress testing project. It contains `cypress` and `cypress-pipe`, along with a simple test written in typescript to demonstrate basic functionality.
 
-# Getting started
+## Getting started
 
 1. Clone the repo to your machine.
 2. Run `yarn` in the repo directory.
