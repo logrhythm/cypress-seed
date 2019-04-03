@@ -10,3 +10,6 @@ This project is a starting point to create a typescript cypress testing project.
 4. Use the cypress UI to run the test, verifying that it passes.
 5. Modify the `cypress.json` file to point to the website you'd like to test.
 6. Start testing!
+
+
+NOTE: The `docs` folder can be deleted. It is only present to enable the initial demo test to run
