@@ -1,0 +1,22 @@
+{
+  "name": "cypress-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sperry94/cypress-seed.git"
+  },
+  "author": "Seth Perry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sperry94/cypress-seed/issues"
+  },
+  "homepage": "https://github.com/sperry94/cypress-seed#readme",
+  "dependencies": {
+    "cypress": "^3.2.0"
+  }
+}
