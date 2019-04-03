@@ -7,16 +7,18 @@
     "test": "yarn cypress open"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sperry94/cypress-seed.git"
+    "url": "https://github.com/sperry94/cypress-seed"
   },
   "author": "Seth Perry",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sperry94/cypress-seed/issues"
   },
-  "homepage": "https://github.com/sperry94/cypress-seed#readme",
+  "homepage": "https://github.com/sperry94/cypress-seed",
   "dependencies": {
-    "cypress": "^3.2.0"
+    "chai": "^4.2.0",
+    "cypress": "^3.2.0",
+    "cypress-pipe": "^1.3.3",
+    "mocha": "^6.0.2"
   }
 }
