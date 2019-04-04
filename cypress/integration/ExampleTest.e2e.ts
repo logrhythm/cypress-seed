@@ -1,3 +1,6 @@
+// when you have added helper code, uncomment the line below.
+// import * as h from '../helpers'
+
 describe('My test', () => {
   beforeEach(() => {
     cy.visit('')
