@@ -1,3 +1,6 @@
+// when you have added helper code, uncomment the line below.
+// import * as h from '../helpers'
+
 describe('My test', () => {
   beforeEach(() => {
     cy.visit('')
@@ -7,7 +10,7 @@ describe('My test', () => {
 
     // assert that the tagline contains the correct text
     cy
-      .get('.tagline')
-      .contains('The web has evolved. Finally, testing has too.')
+      .get('.my-text')
+      .contains('HELLO THERE, CYPRESS')
   })
 })
